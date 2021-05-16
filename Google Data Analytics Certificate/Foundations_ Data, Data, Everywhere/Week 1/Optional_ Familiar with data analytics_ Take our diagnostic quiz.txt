@@ -1,0 +1,274 @@
+Optional: Familiar with data analytics? Take our diagnostic quiz
+TOTAL POINTS 16
+1.
+Question 1
+Optional speed track for those experienced in data analytics
+The Google Data Analytics Certificate provides instruction and feedback for learners hoping to earn a position as an entry-level data analyst. While many learners will be brand new to the world of data analytics, others may be familiar with the field and simply wanting to brush up on certain skills. 
+
+If you believe this course will be primarily a refresher for you, we recommend taking this practice diagnostic quiz. It will enable you to determine if you should follow the speed track, which is an opportunity to proceed to Course 2 after taking each of the Course 1 Weekly Challenges and the overall Course Challenge. Learners who earn 100% on the diagnostic quiz can treat Course 1 videos, readings, and activities as optional.  Learners following the speed track are still able to earn the certificate. 
+
+If you aren't familiar with data analytics, this course was made for you! Feel free to skip this quiz and move forward through all of the course material. 
+
+Get ready to take the next step in your data analytics journey with the question below!
+
+
+Which of the following items are examples of data? Select all that apply.
+
+1 point
+
+Words
+
+
+Tasks
+
+
+Numbers
+
+
+Observations
+
+2.
+Question 2
+A clothing retailer collects and stores data about its sales revenue. Which of the following would be part of its data ecosystem? Select all that apply.
+
+1 point
+
+The cloud that store its database
+
+
+The databases of competing retailers 
+
+
+The database of sales revenue
+
+
+Records of its inventory
+
+3.
+Question 3
+In data analytics, how is data described?
+
+1 point
+
+A technical business process
+
+
+A series of calculations and statistics
+
+
+An aggregate of intelligence
+
+
+A collection of facts
+
+4.
+Question 4
+What is the process of guiding business strategy using facts?
+
+1 point
+
+Analytical strategy
+
+
+Data-driven decision-making
+
+
+Strategic improvement
+
+
+Identification of data and decisions
+
+5.
+Question 5
+Fill in the blank: Curiosity, understanding context, having a technical mindset, data design, and data strategy are _____. They enable data analysts to solve problems using facts.
+
+1 point
+
+thought processes
+
+
+business skills
+
+
+analytical skills
+
+
+personal insights
+
+6.
+Question 6
+The owner of a skate shop notices that every time a certain employee has a shift, there are higher sales numbers at the end of the day. After some investigation, the owner realizes that since the employee was hired, the store earns 15% more each month. In this scenario, the manager used which quality of analytical thinking?
+
+1 point
+
+Visualization
+
+
+Problem-orientation 
+
+
+Big-picture thinking
+
+
+Correlation
+
+7.
+Question 7
+When a shipment arrives late from a supplier, a data analyst asks themselves, “Why?” five times in a row. What are they trying to do?
+
+1 point
+
+Visualize the consequences of the problem
+
+
+Write a report about the problem
+
+
+Create a framework for addressing the problem
+
+
+Identify the root cause of the problem
+
+8.
+Question 8
+Gap analysis is a process that could help accomplish which of the following tasks? Select all that apply.
+
+1 point
+
+Increase the efficiency of a car manufacturer based on its current assembly process
+
+
+Improve accessibility for an educational app based on its current functionality
+
+
+Reduce a company’s carbon footprint based on its current emissions
+
+
+Spread awareness about income inequality based on local salaries
+
+9.
+Question 9
+An analysis firm is conducting a data analysis of rainwater trends to give recommendations to agricultural companies. When they reach the manage stage of the data life cycle, which of the following might they do? Select all that apply.
+
+1 point
+
+Collect and organize data relevant to rainwater 
+
+
+Place their data in a location it can be accessed, even if it may not be used
+
+
+Decide which security tools they will use to protect it
+
+
+Store and clean the data they have collected
+
+10.
+Question 10
+An advertising firm has used insights from its analytics team to create a strategy for improving sales. Now, they implement a plan to increase annual revenue. The firm is at which step of the data analysis process?
+
+1 point
+
+Act
+
+
+Share
+
+
+Analyze
+
+
+Process
+
+11.
+Question 11
+The analyze phase of the data life cycle includes which of the following steps? Select all that apply.
+
+1 point
+
+Creating a report from data
+
+
+Using spreadsheets to aggregate data
+
+
+Chooses the format of spreadsheet headings
+
+
+Using a formula to perform calculations
+
+12.
+Question 12
+A data analyst adds descriptive headers to columns of data in a spreadsheet. How does this improve the spreadsheet? 
+
+1 point
+
+It clarifies the business strategy 
+
+
+It adds context
+
+
+It eliminates unnecessary details
+
+
+It improves the aesthetic appeal
+
+13.
+Question 13
+This is a selection from a spreadsheet that ranks the 10 largest cities in North Carolina. To alphabetize the county names in column D, which spreadsheet tool would you use?
+
+A	B	C	D
+1	Rank	Name	Population	County
+2	7	Cary	170,282	Wake, Chatham
+3	1	Charlotte	885,708	Mecklenburg
+4	10	Concord	96,341	Cabarrus
+5	4	Durham	278,993	Durham (seat), Wake, Orange
+6	6	Fayetteville	211,657	Cumberland
+7	3	Greensboro	296,710	Guilford
+8	9	High Point	112,791	Guilford, Randolph, Davidson, Forsyth
+9	2	Raleigh	474,069	Wake (seat), Durham
+10	8	Wilmington	123,784	New Hanover
+11	5	Winston-Salem	247,945	Forsyth
+1 point
+
+Sort range
+
+
+Name range
+
+
+Alphabetize range
+
+
+Organize range
+
+14.
+Question 14
+You are querying a school database. The column name for customer identification numbers is Student_ID. What is the correct WHERE clause to retrieve data about the student with identification number (ID) 8885317? Type only the WHERE clause, beginning with the word WHERE. Type your answer below.
+
+1 point
+Enter answer here
+15.
+Question 15
+You are writing a SQL query to analyze data about recent trampoline sales. The Store_sales table describes the number of trampolines sold at several sporting goods stores. What is the correct FROM clause to retrieve data from this table? Type only the FROM clause, beginning with the word FROM. Type your answer below.
+
+1 point
+Enter answer here
+16.
+Question 16
+Imagine you are sharing your data with a friend. Why might you display data with a data visualization instead of a table? Select all that apply.
+
+1 point
+
+It describes each data point
+
+
+It’s aesthetically pleasing
+
+
+It’s more complex
+
+
+It’s easy to understand
+
